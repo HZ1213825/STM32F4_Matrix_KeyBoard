@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "stm32f4xx.h": "c",
+        "usart.h": "c",
+        "stdio.h": "c",
+        "xlocnum": "c",
+        "type_traits": "c",
+        "*.rh": "c",
+        "ios": "c",
+        "istream": "c",
+        "ostream": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "iosfwd": "c",
+        "limits": "c",
+        "memory": "c",
+        "stdexcept": "c",
+        "streambuf": "c",
+        "string": "c",
+        "utility": "c"
+    },
+    "files.autoGuessEncoding": true
+}
